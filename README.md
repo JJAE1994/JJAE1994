@@ -1,6 +1,6 @@
 # Juan Jeremy Aliaga Estrada
 
-Embedded Systems Engineer | FPGA (Intel MAX10) | STM32 | Industrial IoT
+Embedded Software Engineer | Embedded Systems | Firmware
 
 Sou engenheiro eletrônico com foco em sistemas embarcados, firmware e FPGA.
 Atuo com microcontroladores, comunicação industrial e projetos aplicados.
