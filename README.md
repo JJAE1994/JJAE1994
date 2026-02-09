@@ -14,5 +14,6 @@ Atuo com microcontroladores, comunicação industrial e projetos aplicados.
 
 ## 📌 Projetos em destaque
 - FPGA projects (DE10-Lite)
-- STM32 advanced peripherals
-- IoT node MQTT
+- PIC18F4550 projects
+- PIC18F57Q43 projects
+  
